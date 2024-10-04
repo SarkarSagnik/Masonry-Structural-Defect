@@ -5,16 +5,16 @@ This project implements an image classification system using Convolutional Neura
 
 ## Table of Contents
 
-- [Introduction](#introduction)
-- [Prerequisites](#prerequisites)
-- [Project Structure](#project-structure)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Data Loading and Preprocessing](#data-loading-and-preprocessing)
-- [Model Training and Evaluation](#model-training-and-evaluation)
-- [Visualizing Results](#visualizing-results)
-- [License](#license)
-- [Acknowledgments](#acknowledgments)
+- [Introduction]
+- [Prerequisites]
+- [Project Structure]
+- [Installation]
+- [Usage]
+- [Data Loading and Preprocessing]
+- [Model Training and Evaluation]
+- [Visualizing Results]
+- [License]
+- [Acknowledgments]
 
 ## Introduction
 
