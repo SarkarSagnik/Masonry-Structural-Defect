@@ -42,19 +42,22 @@ pip install tensorflow keras numpy matplotlib scikit-learn pillow
 image-classification-cnn/
 │
 ├── Training/               # Directory for training images
-│   ├── Class1/             # Images for Class 1
-│   ├── Class2/             # Images for Class 2
-│   └── ...
+│   ├── High Risk/             
+│   ├── Medium Risk/             
+│   └── Low Risk/
+│   └── No Risk/
 │
 ├── Validation/             # Directory for validation images
-│   ├── Class1/
-│   ├── Class2/
-│   └── ...
+│   ├── High Risk/             
+│   ├── Medium Risk/             
+│   └── Low Risk/
+│   └── No Risk/
 │
 ├── Testing/                # Directory for test images
-│   ├── Class1/
-│   ├── Class2/
-│   └── ...
+│   ├── High Risk/             
+│   ├── Medium Risk/             
+│   └── Low Risk/
+│   └── No Risk/
 │
 ├── main.py                 # Main script to run the model
 └── README.md               # Project documentation
