@@ -1,5 +1,3 @@
-Here’s the complete README file written in Markdown format for your image classification project using CNNs:
-
 ```markdown
 # Image Classification with CNNs
 
