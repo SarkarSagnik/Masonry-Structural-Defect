@@ -68,8 +68,8 @@ image-classification-cnn/
 Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/yourusername/image-classification-cnn.git
-cd image-classification-cnn
+git clone https://github.com/yourusername/image-classification-cnn.git](https://github.com/SarkarSagnik/Masonry-Structural-Defect.git
+cd Masonry-Structural-Defect
 ```
 
 ## Usage
